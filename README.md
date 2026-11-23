@@ -42,12 +42,6 @@ Reserved for satellite telemetry data and notes on how it was collected. The dir
 
 Reserved for communication data and link measurements. The directory is intentionally empty for now; see [CommunicationData/README.md](CommunicationData/README.md).
 
-## 🔗 Related Repositories
-
-- [SatelliteSoftware](https://github.com/OPEN-TianSuan/SatelliteSoftware) — operating systems, runtime systems and applications
-- [EngineeringTools](https://github.com/OPEN-TianSuan/EngineeringTools) — development, simulation and evaluation tooling
-- [TechnicalLiterature](https://github.com/OPEN-TianSuan/TechnicalLiterature) — research papers, standards and documentation
-
 ## 🤝 Contributing
 
 Researchers, developers, students and satellite enthusiasts are welcome. If you would like to add a dataset or share access notes, open a pull request or start a discussion.
