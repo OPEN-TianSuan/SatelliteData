@@ -1,10 +1,11 @@
 <div align="center">
 
-A consolidated collection of satellite data resources, maintained by the **[OPENSAT](https://github.com/OPEN-TianSuan)** community.
+A consolidated collection of satellite data resources, maintained by the **[OPEN-TianSuan](https://github.com/OPEN-TianSuan)** community.
 
-[![README](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue?style=flat-square)](README.zh-CN.md)
+[![Total views](https://raw.githubusercontent.com/OPEN-TianSuan/.github/main/traffic/SatelliteData.svg)](https://github.com/OPEN-TianSuan/.github/blob/main/traffic/SatelliteData.csv "Cumulative recorded repository views; updated hourly")
+[![README](https://img.shields.io/badge/README-Chinese-blue?style=flat-square)](README.zh-CN.md)
 
-**English** | [中文](README.zh-CN.md)
+**English** | [Chinese](README.zh-CN.md)
 
 </div>
 
@@ -25,19 +26,19 @@ Satellite research depends on data: imagery for perception, orbits for constella
 
 ## 📁 Directories
 
-### RemoteSensingImagery — 遥感影像数据
+### RemoteSensingImagery
 
 A curated and continuously maintained list of open satellite imagery datasets and data platforms, with descriptions, typical applications and access links. The collection spans foundation-model pretraining, scene classification, object detection, semantic segmentation, change detection, agriculture time series, cloud removal, vision-language data and raw imagery platforms. See [RemoteSensingImagery/README.md](RemoteSensingImagery/README.md).
 
-### OrbitalData — 轨道数据
+### OrbitalData
 
 Reserved for orbital data, including TLE sets, ephemerides and derived orbit products. The directory is intentionally empty for now; see [OrbitalData/README.md](OrbitalData/README.md).
 
-### TelemetryData — 遥测数据
+### TelemetryData
 
 Reserved for satellite telemetry data and notes on how it was collected. The directory is intentionally empty for now; see [TelemetryData/README.md](TelemetryData/README.md).
 
-### CommunicationData — 通信数据
+### CommunicationData
 
 Reserved for communication data and link measurements. The directory is intentionally empty for now; see [CommunicationData/README.md](CommunicationData/README.md).
 
