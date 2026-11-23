@@ -19,28 +19,28 @@
 
 | 目录 | 内容 | 来源 |
 | --- | --- | --- |
-| [RemoteSensingImagery](RemoteSensingImagery/) | 59 个开源卫星遥感数据集与数据获取平台，覆盖 9 个整理方向。 | `SatelliteDataset` |
-| [OrbitalData](OrbitalData/) | 轨道数据，如 TLE、星历与轨道产品，暂为预留目录。 | — |
-| [TelemetryData](TelemetryData/) | 卫星遥测数据及相关采集说明，暂为预留目录。 | — |
-| [CommunicationData](CommunicationData/) | 通信数据与链路测量数据，暂为预留目录。 | — |
+| [RemoteSensingImagery](RemoteSensingImagery/README.zh-CN.md) | 59 个开源卫星遥感数据集与数据获取平台，覆盖 9 个整理方向。 | `SatelliteDataset` |
+| [OrbitalData](OrbitalData/README.zh-CN.md) | 轨道数据，如 TLE、星历与轨道产品，暂为预留目录。 | — |
+| [TelemetryData](TelemetryData/README.zh-CN.md) | 卫星遥测数据及相关采集说明，暂为预留目录。 | — |
+| [CommunicationData](CommunicationData/README.zh-CN.md) | 通信数据与链路测量数据，暂为预留目录。 | — |
 
 ## 📁 目录说明
 
 ### RemoteSensingImagery — 遥感影像数据
 
-一份持续维护的开源卫星影像数据集与数据平台清单，包含简介、典型应用与获取链接。内容覆盖基础模型预训练、场景分类、目标检测、语义分割、变化检测、农业时间序列、云检测与去除、视觉语言数据以及原始影像平台。详见 [RemoteSensingImagery/README.md](RemoteSensingImagery/README.md)。
+一份持续维护的开源卫星影像数据集与数据平台清单，包含简介、典型应用与获取链接。内容覆盖基础模型预训练、场景分类、目标检测、语义分割、变化检测、农业时间序列、云检测与去除、视觉语言数据以及原始影像平台。详见 [RemoteSensingImagery/README.zh-CN.md](RemoteSensingImagery/README.zh-CN.md)。
 
 ### OrbitalData — 轨道数据
 
-预留用于轨道数据，包括 TLE 集合、星历与派生轨道产品。目前目录为空，详见 [OrbitalData/README.md](OrbitalData/README.md)。
+预留用于轨道数据，包括 TLE 集合、星历与派生轨道产品。目前目录为空，详见 [OrbitalData/README.zh-CN.md](OrbitalData/README.zh-CN.md)。
 
 ### TelemetryData — 遥测数据
 
-预留用于卫星遥测数据及其采集方式说明。目前目录为空，详见 [TelemetryData/README.md](TelemetryData/README.md)。
+预留用于卫星遥测数据及其采集方式说明。目前目录为空，详见 [TelemetryData/README.zh-CN.md](TelemetryData/README.zh-CN.md)。
 
 ### CommunicationData — 通信数据
 
-预留用于通信数据与链路测量数据。目前目录为空，详见 [CommunicationData/README.md](CommunicationData/README.md)。
+预留用于通信数据与链路测量数据。目前目录为空，详见 [CommunicationData/README.zh-CN.md](CommunicationData/README.zh-CN.md)。
 
 ## 🔗 相关仓库
 

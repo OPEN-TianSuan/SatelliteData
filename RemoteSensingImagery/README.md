@@ -5,10 +5,10 @@ A curated and continuously maintained list of open satellite remote-sensing data
 </p>
 
 <p align="center">
-  <a href="./README_CN.md"><img src="https://img.shields.io/badge/README-简体中文-0969da?style=flat-square&labelColor=555555" alt="阅读中文版"></a>
+  <a href="./README.zh-CN.md"><img src="https://img.shields.io/badge/README-Chinese-0969da?style=flat-square&labelColor=555555" alt="Read in Chinese"></a>
 </p>
 
-<p align="center"><strong>English</strong> | <a href="./README_CN.md">中文</a></p>
+<p align="center"><strong>English</strong> | <a href="./README.zh-CN.md">Chinese</a></p>
 
 <p align="center"><strong>59 datasets and data platforms</strong> &nbsp;·&nbsp; <strong>9 curation areas</strong></p>
 

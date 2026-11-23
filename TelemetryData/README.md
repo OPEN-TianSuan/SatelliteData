@@ -1,5 +1,5 @@
 # Telemetry Data
 
-Reserved for satellite telemetry data and notes on how it was collected. Content will be added in a later update.
+**English** | [Chinese](README.zh-CN.md)
 
-本目录预留用于卫星遥测数据及其采集说明，将在后续补充内容。
+Reserved for satellite telemetry data and notes on how it was collected. Content will be added in a later update.
