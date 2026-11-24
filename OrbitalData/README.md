@@ -1,5 +1,3 @@
-# Orbital Data
-
 **English** | [Chinese](README.zh-CN.md)
 
-Reserved for orbital data, such as TLE sets, ephemerides and derived orbit products. Content will be added in a later update.
+Orbital data such as TLEs, ephemerides and orbit products. Reserved; content will be added later.

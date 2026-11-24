@@ -13,34 +13,36 @@ A consolidated collection of satellite data resources, maintained by the **[OPEN
 
 ## 📋 About This Repository
 
-Satellite research depends on data: imagery for perception, orbits for constellation design, telemetry for health monitoring and links for communication studies. This repository groups those data types into separate directories, so each collection can grow without mixing access notes and formats. Each directory keeps its own README.
+This catalog organizes TianSuan satellite data into four categories: remote sensing imagery, orbital data, spacecraft and payload telemetry, and communications data.
 
 ## 📂 Repository Layout
 
-| Directory | Contents | Origin |
-| --- | --- | --- |
-| [RemoteSensingImagery](RemoteSensingImagery/) | 59 open satellite remote-sensing datasets and data-access platforms across 9 curation areas. | `SatelliteDataset` |
-| [OrbitalData](OrbitalData/) | Orbital data such as TLEs, ephemerides and orbit products. Reserved; content will be added later. | — |
-| [TelemetryData](TelemetryData/) | Satellite telemetry data and related collection notes. Reserved; content will be added later. | — |
-| [CommunicationData](CommunicationData/) | Communication data and link measurements. Reserved; content will be added later. | — |
+| Category | Contents |
+| --- | --- |
+| [Remote Sensing Imagery](RemoteSensingImagery/README.md) | Satellite remote sensing imagery and related data products. Reserved; content will be added later. |
+| [Orbital Data](OrbitalData/README.md) | Orbital data such as TLEs, ephemerides and orbit products. Reserved; content will be added later. |
+| [Telemetry Data](TelemetryData/README.md) | Spacecraft and payload telemetry, including measurements from in-orbit computing experiments. |
+| [Communication Data](CommunicationData/README.md) | Satellite communication data such as link measurements and performance traces. Reserved; content will be added later. |
 
 ## 📁 Directories
 
 ### RemoteSensingImagery
 
-A curated and continuously maintained list of open satellite imagery datasets and data platforms, with descriptions, typical applications and access links. The collection spans foundation-model pretraining, scene classification, object detection, semantic segmentation, change detection, agriculture time series, cloud removal, vision-language data and raw imagery platforms. See [RemoteSensingImagery/README.md](RemoteSensingImagery/README.md).
+Satellite remote sensing imagery and related data products. Reserved; content will be added later.
 
 ### OrbitalData
 
-Reserved for orbital data, including TLE sets, ephemerides and derived orbit products. The directory is intentionally empty for now; see [OrbitalData/README.md](OrbitalData/README.md).
+Orbital data such as TLEs, ephemerides and orbit products. Reserved; content will be added later.
 
 ### TelemetryData
 
-Reserved for satellite telemetry data and notes on how it was collected. The directory is intentionally empty for now; see [TelemetryData/README.md](TelemetryData/README.md).
+Spacecraft and payload telemetry, including measurements from in-orbit computing experiments.
+
+Available dataset: [ACM MobiCom 2024 · BUPT-1 In-Orbit Computing Dataset](TelemetryData/README.md).
 
 ### CommunicationData
 
-Reserved for communication data and link measurements. The directory is intentionally empty for now; see [CommunicationData/README.md](CommunicationData/README.md).
+Satellite communication data such as link measurements and performance traces. Reserved; content will be added later.
 
 ## 🤝 Contributing
 
@@ -48,4 +50,4 @@ Researchers, developers, students and satellite enthusiasts are welcome. If you 
 
 ## 📄 License
 
-This repository indexes third-party datasets and platforms. Their licenses and terms of use remain with their original providers.
+See each dataset repository for its license and terms of use.

@@ -1,5 +1,3 @@
-# Communication Data
-
 **English** | [Chinese](README.zh-CN.md)
 
-Reserved for communication data and link measurements. Content will be added in a later update.
+Satellite communication data such as link measurements and performance traces. Reserved; content will be added later.

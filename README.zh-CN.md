@@ -13,39 +13,44 @@
 
 ## 📋 关于本仓库
 
-卫星研究离不开数据：感知需要影像，星座设计需要轨道，健康监测需要遥测，通信研究需要链路数据。本仓库按数据类型划分目录，使各类数据集合可以独立扩展，避免格式与获取说明混在一起。每个目录保留自己的 README。
+本目录汇集天算卫星数据资源，涵盖遥感影像、轨道数据、卫星平台与载荷遥测、通信数据四个类别。
 
 ## 📂 仓库结构
 
-| 目录 | 内容 | 来源 |
-| --- | --- | --- |
-| [RemoteSensingImagery](RemoteSensingImagery/README.zh-CN.md) | 59 个开源卫星遥感数据集与数据获取平台，覆盖 9 个整理方向。 | `SatelliteDataset` |
-| [OrbitalData](OrbitalData/README.zh-CN.md) | 轨道数据，如 TLE、星历与轨道产品，暂为预留目录。 | — |
-| [TelemetryData](TelemetryData/README.zh-CN.md) | 卫星遥测数据及相关采集说明，暂为预留目录。 | — |
-| [CommunicationData](CommunicationData/README.zh-CN.md) | 通信数据与链路测量数据，暂为预留目录。 | — |
+| 类别 | 内容 |
+| --- | --- |
+| [遥感影像](RemoteSensingImagery/README.zh-CN.md) | 卫星遥感影像及相关数据产品。本类别预留，后续将补充内容。 |
+| [轨道数据](OrbitalData/README.zh-CN.md) | 轨道数据，包括 TLE、星历和轨道产品。本类别预留，后续将补充内容。 |
+| [遥测数据](TelemetryData/README.zh-CN.md) | 卫星平台与载荷遥测，包括在轨计算实验的实测数据。 |
+| [通信数据](CommunicationData/README.zh-CN.md) | 卫星通信数据，包括链路实测数据和通信性能记录。本类别预留，后续将补充内容。 |
 
 ## 📁 目录说明
 
-### RemoteSensingImagery — 遥感影像数据
+### 遥感影像
 
-一份持续维护的开源卫星影像数据集与数据平台清单，包含简介、典型应用与获取链接。内容覆盖基础模型预训练、场景分类、目标检测、语义分割、变化检测、农业时间序列、云检测与去除、视觉语言数据以及原始影像平台。详见 [RemoteSensingImagery/README.zh-CN.md](RemoteSensingImagery/README.zh-CN.md)。
+卫星遥感影像及相关数据产品。本类别预留，后续将补充内容。
 
-### OrbitalData — 轨道数据
+### 轨道数据
 
-预留用于轨道数据，包括 TLE 集合、星历与派生轨道产品。目前目录为空，详见 [OrbitalData/README.zh-CN.md](OrbitalData/README.zh-CN.md)。
+轨道数据，包括 TLE、星历和轨道产品。本类别预留，后续将补充内容。
 
-### TelemetryData — 遥测数据
+### 遥测数据
 
-预留用于卫星遥测数据及其采集方式说明。目前目录为空，详见 [TelemetryData/README.zh-CN.md](TelemetryData/README.zh-CN.md)。
+卫星平台与载荷遥测，包括在轨计算实验的实测数据。
 
-### CommunicationData — 通信数据
+已收录 [ACM MobiCom 2024 · BUPT-1 在轨计算数据集](TelemetryData/README.zh-CN.md)。
 
-预留用于通信数据与链路测量数据。目前目录为空，详见 [CommunicationData/README.zh-CN.md](CommunicationData/README.zh-CN.md)。
+### 通信数据
+
+卫星通信数据，包括链路实测数据和通信性能记录。本类别预留，后续将补充内容。
 
 ## 🔗 相关仓库
 
-- [SatelliteSoftware](https://github.com/OPEN-TianSuan/SatelliteSoftware) —— 操作系统、运行时系统与应用软件
-- [EngineeringTools](https://github.com/OPEN-TianSuan/EngineeringTools) —— 开发、仿真与评估工具
+- [ApplicationLayer](https://github.com/OPEN-TianSuan/ApplicationLayer) —— 卫星应用软件
+- [ComputeOperationsLayer](https://github.com/OPEN-TianSuan/ComputeOperationsLayer) —— 模型训练、推理与运营
+- [InfrastructureLayer](https://github.com/OPEN-TianSuan/InfrastructureLayer) —— 平台管理、运行支撑与基础软件
+- [EngineeringSupport](https://github.com/OPEN-TianSuan/EngineeringSupport) —— 开发套件与评估平台
+- [SimulationPlatform](https://github.com/OPEN-TianSuan/SimulationPlatform) —— 卫星计算星座仿真平台
 - [TechnicalLiterature](https://github.com/OPEN-TianSuan/TechnicalLiterature) —— 研究论文、标准与技术文档
 
 ## 🤝 参与贡献
@@ -54,4 +59,4 @@
 
 ## 📄 许可
 
-本仓库索引第三方数据集与平台，其许可证与使用条款仍归原始提供方所有。
+各数据集的许可证与使用条款见对应的数据集仓库。
