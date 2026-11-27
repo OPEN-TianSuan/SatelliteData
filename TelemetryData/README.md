@@ -4,9 +4,9 @@
 
 Spacecraft and payload telemetry, including measurements from in-orbit computing experiments.
 
-## [ACM MobiCom 2024 · BUPT-1 In-Orbit Computing Dataset](https://github.com/OPEN-TianSuan/MobiCom24-SatelliteCOTS)
+## SatelliteCOTS：[ACM MobiCom 2024 · BUPT-1 In-Orbit Computing Dataset](https://github.com/OPEN-TianSuan/MobiCom24-SatelliteCOTS)
 
-The dataset contains spacecraft telemetry from the BUPT-1 CubeSat and measurements from computing workloads run in orbit on the Atlas 200 DK and Raspberry Pi 4B. It covers temperature changes during sunlight and eclipse, solar power generation, and onboard power consumption.
+The SatelliteCOTS dataset contains spacecraft telemetry from the BUPT-1 CubeSat and measurements from computing workloads run in orbit on the Atlas 200 DK and Raspberry Pi 4B. It covers temperature changes during sunlight and eclipse, solar power generation, and onboard power consumption.
 
 The repository provides a consolidated telemetry CSV, per-experiment datasets, and Python scripts for data processing and figure reproduction.
 
